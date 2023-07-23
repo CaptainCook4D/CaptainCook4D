@@ -14,8 +14,8 @@ We provide 5K step annotations and 10K fine-grained action annotations for 20% o
 
 ## Additional Resources
 
-- [Project Website](https://error-dataset.github.io/ErrorDataset/index.html) *(replace the '#' with the URL of the project website)*
-- [Paper](https://utdallas.app.box.com/folder/216041407626?s=840gpo2es7k2autkb4nqvzkzaikmd2ic) *(replace the '#' with the URL of the paper link)*
+- [Project Website](https://error-dataset.github.io/ErrorDataset/index.html) 
+- [Paper](https://utdallas.app.box.com/folder/216041407626?s=840gpo2es7k2autkb4nqvzkzaikmd2ic) 
 
 <!---
 ## Citation
