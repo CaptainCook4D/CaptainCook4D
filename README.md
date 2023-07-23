@@ -10,6 +10,15 @@ Following step-by-step procedures is an essential component of various activitie
 https://github.com/Error-Dataset/Error-Dataset/assets/130110495/d7a0f0d8-8ed2-4d37-ba0b-8b93a595a9c0
 
 
+## Error Synopsis
+
+A structured synopsis of different types of errors and their short descriptions compiled from the annotations.
+We classified common errors performed during a cooking activity into the following categories 
+(1) Preparation Error, (2) Measurement Error, (3)  Technique Error, (4) Timing Error, (5) Temperature Error, (6) Missing Steps, and (7) Ordering Errors.
+
+![ErrorSynopsis](https://github.com/Error-Dataset/Error-Dataset/assets/130110495/931f5708-455f-40a0-b5c9-a7d15e6c7328)
+
+
 ## Code 
 
 - [Data Collection System](https://github.com/Error-Dataset/data-collection)
