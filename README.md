@@ -12,17 +12,17 @@ https://github.com/Error-Dataset/Error-Dataset/assets/130110495/d7a0f0d8-8ed2-4d
 
 ## Code 
 
-- [Data Collection System] (https://github.com/Error-Dataset/data-collection)
+- [Data Collection System](https://github.com/Error-Dataset/data-collection)
 
 ## Annotations
 
-- [Annotations] (https://github.com/Error-Dataset/annotations)
-- [Data Statistics] (https://github.com/Error-Dataset/annotations)
-- [Train/Test Splits] (https://github.com/Error-Dataset/annotations)
+- [Annotations](https://github.com/Error-Dataset/annotations)
+- [Data Statistics](https://github.com/Error-Dataset/annotations)
+- [Train/Test Splits](https://github.com/Error-Dataset/annotations)
 
 ## Baselines
 
-- [Anamoly Detection] (https://github.com/Error-Dataset/anamoly-detection)
+- [Anamoly Detection](https://github.com/Error-Dataset/anamoly-detection)
 
 
 ## Additional Resources
