@@ -12,6 +12,20 @@
   </a> 
 </div>
 
+<p align="center">
+  (This page is under continuous update and construction.)
+</p>
+
+----
+
+## Update
+---
+
+**May 2024:** Release of code for baselines (a) **Error Recognition** (b) **Multi-Step Localization** (c) **Task Verification**
+
+**Dec 2023:** Released dataset version 1.0
+
+
 ----
 
 https://github.com/Error-Dataset/Error-Dataset/assets/130110495/d74392a3-1aea-43b4-a58f-a1c2375928be
