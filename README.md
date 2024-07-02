@@ -21,7 +21,7 @@
 ## Update
 ---
 
-**May 2024:** Release of code for baselines (a) **Error Recognition** (b) **Multi-Step Localization** (c) **Task Verification**
+**July 2024:** Release of code for baselines (a) **Error Recognition** (b) **Multi-Step Localization**
 
 **Dec 2023:** Released dataset version 1.0
 
