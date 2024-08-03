@@ -1,4 +1,4 @@
-# CaptainCook4D: A dataset for understanding errors in procedural activities
+# CaptainCook4D: A Dataset for Understanding Errors in Procedural Activities
 
 <div align=center>
   <a src="https://img.shields.io/badge/project-website-green" href="https://captaincook4d.github.io/captain-cook/">
@@ -19,20 +19,31 @@
 ----
 
 ## Update
----
+
+----
+
+**Sep 2024:** Release of updated final code for baselines on (a) **Error Recognition** - (Supervised, Zero-Shot) (b) **Multi-Step Localization**
+
+**Aug 2024:** Released extracted features for the dataset using Video Recognition Models.
 
 **July 2024:** Release of code for baselines (a) **Error Recognition** (b) **Multi-Step Localization**
 
 **Dec 2023:** Released dataset version 1.0
 
+----
+
+<div align="center">
+    <h3>Overview</h3>
+</div> 
+
+![Overview](https://raw.githubusercontent.com/CaptainCook4D/captain-cook/main/static/images/TitleImage.svg)
 
 ----
 
-https://github.com/Error-Dataset/Error-Dataset/assets/130110495/d74392a3-1aea-43b4-a58f-a1c2375928be
+<div align="center">
+    <h3>Abstract</h3>
+</div> 
 
-----
-
-## Abstract
 Following step-by-step procedures is an essential component of various activities carried out by individuals in their everyday lives.
 These procedures serve as a guiding framework that helps achieve goals efficiently, whether assembling furniture or preparing a recipe.
 However, the complexity and duration of procedural activities inherently increase the likelihood of making errors.
@@ -47,15 +58,189 @@ https://github.com/Error-Dataset/Error-Dataset/assets/130110495/d7a0f0d8-8ed2-4d
 
 ----
 
-## Error Synopsis
-
-A structured synopsis of different types of errors and their short descriptions compiled from the annotations.
-We classified common errors performed during a cooking activity into the following categories 
-(1) Preparation Error, (2) Measurement Error, (3)  Technique Error, (4) Timing Error, (5) Temperature Error, (6) Missing Steps, and (7) Ordering Error.
-
-![ErrorSynopsisWithoutBrackets](https://github.com/CaptainCook4D/CaptainCook4D/assets/130110495/394099a4-3c10-4b43-91c9-5dcae5bdef08)
+<div align="center">
+    <h3>Normal & Error Steps</h3>
+</div>
 
 ----
+
+<p class="subtitle has-text-centered">
+<span class="recipe">Technique Error:</span>
+<span class="recipe_description">In the recipe <span class="recipe"> <b>butter corn cup</b> </span>
+  the first two video snippets exhibit the outcome of correctly following the instruction
+  <span class="recipe"> <b><u>Mix the contents of the bowl well</u></b> </span> without any spillage,
+  whereas the subsequent three snippets display the result of inducing errors by spilling out corn from the bowl
+  while mixing.
+</span>
+</p>
+
+<p class="subtitle has-text-centered">
+<span class="recipe">Measurement Error:</span>
+<span class="recipe_description">In the recipe <span class="recipe"> <b>scrambled eggs</b> </span>
+  the first two video snippets exhibit the outcome of correctly following the instruction
+  <span class="recipe"> <b><u>Peel 2 garlic cloves</u></b> </span>,
+  whereas the subsequent three snippets display the result when a different number of garlic cloves
+  (4, 1, and 1 respectively) are peeled instead of the intended 2 cloves.
+</span>
+</p>
+
+
+<p class="subtitle has-text-centered">
+<span class="recipe">Order Error:</span>
+<span class="recipe_description">In the recipe <span class="recipe"> <b>spicy tuna avacado wraps</b> </span>
+  the first two video snippets exhibit the outcome of correctly following the instruction
+  <span class="recipe"> <b><u>Top lettuce leaves with tuna mixture</u></b> </span>,
+  whereas the subsequent three snippets display the result when an incorrect order is
+  followed where avacado is added after topping the leaves with the mixture.
+</span>
+</p>
+
+
+<p class="subtitle has-text-centered">
+<span class="recipe">Preparation Error:</span>
+<span class="recipe_description">In the recipe <span class="recipe"> <b>mug cake</b> </span>
+  the first two video snippets exhibit the outcome of correctly following the instruction
+  <span class="recipe"> <b><u>Whisk batter</u></b> </span>, while the remaining snippets depict incorrect usage
+  of utensils such as a spoon, tablespoon, and hand to perform the same task.
+</span>
+</p>
+
+<p class="subtitle has-text-centered">
+<span class="recipe">Technique Error:</span>
+<span class="recipe_description">In the recipe <span class="recipe"> <b>cucumber raita</b> </span>
+  the first two video snippets exhibit the outcome of correctly following the instruction
+  <span class="recipe"> <b><u>Chop or grate the cucumber</u></b> </span>, while the next three frames
+  on the right show the results when the cucumber is cut improperly, sliced vertically,
+  and sliced horizontally, respectively.
+</span>
+</p>
+
+----
+
+<div align="center">
+    <h3>4D Snippets</h3>
+</div>
+
+----
+
+https://github.com/Error-Dataset/Error-Dataset/assets/130110495/d74392a3-1aea-43b4-a58f-a1c2375928be
+
+
+----
+
+<div align="center">
+    <h3>Task Graphs</h3>
+</div>
+
+----
+
+You can find the task graphs for the following tasks in the dataset here: [Task Graphs](https://github.com/Error-Dataset/annotations)
+
+[//]: # (Add task graph video here)
+
+----
+
+<div align="center">
+    <h3>Annotation Overview</h3>
+</div>
+
+----
+
+![Annotation Overview](https://raw.githubusercontent.com/CaptainCook4D/captain-cook/main/static/images/RecipeTimeline.svg)
+
+----
+
+<div align="center">
+    <h3>Data Collection and Annotation Illustration</h3>
+</div>
+
+----
+
+[//]: # (Add data collection video here)
+
+----
+
+<div align="center">
+    <h3>Error Categories</h3>
+</div>
+
+----
+
+
+![Error Categories](https://raw.githubusercontent.com/CaptainCook4D/captain-cook/main/static/images/ErrorCategories.svg)
+
+----
+
+
+<div align="center">
+    <h3>Baselines</h3>
+</div>
+
+----
+
+
+<div align="center">
+    <h5>Supervised Error Recognition</h5>
+</div>
+
+![Supervised Error Recognition](https://raw.githubusercontent.com/CaptainCook4D/captain-cook/main/static/images/ErrorRecognitionBaseline.svg)
+
+
+<div align="center">
+    <h5>Zero-Shot Error Recognition</h5>
+</div>
+
+![Zero Shot Error Recognition](https://raw.githubusercontent.com/CaptainCook4D/captain-cook/main/static/images/ZeroShotErrorRecognition.svg)
+
+<div align="center">
+    <h5>Multi Step Localization</h5>
+</div>
+
+![Multi Step Localization](https://raw.githubusercontent.com/CaptainCook4D/captain-cook/main/static/images/MultiStepLocalizationQualitativeResults.svg)
+
+----
+
+<div>
+    <h3>Data Collection System</h3>
+</div>
+
+
+- [Data Collection System](https://github.com/Error-Dataset/data-collection)
+
+
+----
+
+<div>
+    <h3>Annotations</h3>
+</div>
+
+
+- [Data Statistics](https://github.com/Error-Dataset/annotations)
+- [Train/Test Splits](https://github.com/Error-Dataset/annotations)
+
+----
+
+<div>
+    <h5>Works that used CaptainCook4D</h5>
+</div>
+
+
+**June 2024:** [Differentiable Task Graph Learning](https://arxiv.org/abs/2406.01486)
+
+----
+
+<div>
+    <h3>License & Consent</h3>
+</div>
+
+Our dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+Our dataset is approved by the Institutional Review Board (IRB) at the University of Florida: [IRB Approval](https://utdallas.box.com/s/mplxyvsowyay1lr048bur9habarjgkt9) 
+
+All participants provided written consent for the data collection: [Consent](https://utdallas.box.com/s/2qkvsgrn8gfs66o8ha8hnee011t03yl2)
+
+----
+
 
 ## Citation
 
@@ -69,19 +254,5 @@ We classified common errors performed during a cooking activity into the followi
   primaryClass={cs.CV}
 }
 ```
-----
 
-## Code 
 
-- [Data Collection System](https://github.com/Error-Dataset/data-collection)
-
-## Annotations
-
-- [Annotations](https://github.com/Error-Dataset/annotations)
-- [Data Statistics](https://github.com/Error-Dataset/annotations)
-- [Train/Test Splits](https://github.com/Error-Dataset/annotations)
-
-## Additional Resources
-
-- [Project Website](https://captaincook4d.github.io/captain-cook/) 
-- [Paper](https://arxiv.org/abs/2312.14556) 
