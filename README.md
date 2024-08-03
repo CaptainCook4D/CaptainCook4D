@@ -64,6 +64,10 @@ https://github.com/Error-Dataset/Error-Dataset/assets/130110495/d7a0f0d8-8ed2-4d
 
 ----
 
+
+https://github.com/user-attachments/assets/d366002a-1832-48f7-8bc4-2a7774d4d4ef
+
+
 <p class="subtitle has-text-centered">
 <span class="recipe">Technique Error:</span>
 <span class="recipe_description">In the recipe <span class="recipe"> <b>butter corn cup</b> </span>
@@ -74,6 +78,10 @@ https://github.com/Error-Dataset/Error-Dataset/assets/130110495/d7a0f0d8-8ed2-4d
 </span>
 </p>
 
+
+https://github.com/user-attachments/assets/c65c4089-1421-4494-b1ba-cbe072a71fa6
+
+
 <p class="subtitle has-text-centered">
 <span class="recipe">Measurement Error:</span>
 <span class="recipe_description">In the recipe <span class="recipe"> <b>scrambled eggs</b> </span>
@@ -83,6 +91,10 @@ https://github.com/Error-Dataset/Error-Dataset/assets/130110495/d7a0f0d8-8ed2-4d
   (4, 1, and 1 respectively) are peeled instead of the intended 2 cloves.
 </span>
 </p>
+
+
+
+https://github.com/user-attachments/assets/9a6b7470-5284-49fe-9616-0e3458ded6b4
 
 
 <p class="subtitle has-text-centered">
@@ -96,6 +108,10 @@ https://github.com/Error-Dataset/Error-Dataset/assets/130110495/d7a0f0d8-8ed2-4d
 </p>
 
 
+
+https://github.com/user-attachments/assets/b5bdac1c-522b-4801-a864-55c28039a3c3
+
+
 <p class="subtitle has-text-centered">
 <span class="recipe">Preparation Error:</span>
 <span class="recipe_description">In the recipe <span class="recipe"> <b>mug cake</b> </span>
@@ -104,6 +120,10 @@ https://github.com/Error-Dataset/Error-Dataset/assets/130110495/d7a0f0d8-8ed2-4d
   of utensils such as a spoon, tablespoon, and hand to perform the same task.
 </span>
 </p>
+
+
+https://github.com/user-attachments/assets/4e45a905-4ad5-4818-bc0e-0d76aa3ed740
+
 
 <p class="subtitle has-text-centered">
 <span class="recipe">Technique Error:</span>
@@ -136,7 +156,9 @@ https://github.com/Error-Dataset/Error-Dataset/assets/130110495/d74392a3-1aea-43
 
 You can find the task graphs for the following tasks in the dataset here: [Task Graphs](https://github.com/Error-Dataset/annotations)
 
-[//]: # (Add task graph video here)
+
+https://github.com/user-attachments/assets/f32e37c6-adb9-4bd8-952b-7effa3de4b01
+
 
 ----
 
@@ -156,7 +178,8 @@ You can find the task graphs for the following tasks in the dataset here: [Task 
 
 ----
 
-[//]: # (Add data collection video here)
+https://github.com/user-attachments/assets/87cae353-536b-48ad-942e-5eeb7c725089
+
 
 ----
 
