@@ -53,9 +53,6 @@ To this end, we collected a new egocentric 4D dataset, Captain Cook, comprising 
 This dataset consists of two distinct activity types: one in which participants adhere to the provided recipe instructions and another where they deviate and induce errors.
 We provide 5.3K step annotations and 10K fine-grained action annotations and benchmark it on the following tasks: supervised error recognition, multi-step localization and procedure learning.
 
-
-https://github.com/Error-Dataset/Error-Dataset/assets/130110495/d7a0f0d8-8ed2-4d37-ba0b-8b93a595a9c0
-
 ----
 
 <div align="center">
@@ -143,7 +140,7 @@ https://github.com/user-attachments/assets/4e45a905-4ad5-4818-bc0e-0d76aa3ed740
 
 ----
 
-https://github.com/Error-Dataset/Error-Dataset/assets/130110495/d74392a3-1aea-43b4-a58f-a1c2375928be
+https://github.com/Error-Dataset/Error-Dataset/assets/130110495/d7a0f0d8-8ed2-4d37-ba0b-8b93a595a9c0
 
 
 ----
