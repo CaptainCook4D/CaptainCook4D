@@ -253,7 +253,7 @@ https://github.com/user-attachments/assets/87cae353-536b-48ad-942e-5eeb7c725089
     <h3>License & Consent</h3>
 </div>
 
-Our dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Our dataset is licensed under the Apache license 2.0: [License](https://www.apache.org/licenses/LICENSE-2.0).
 
 Our dataset is approved by the Institutional Review Board (IRB) at the University of Florida: [IRB Approval](https://utdallas.box.com/s/mplxyvsowyay1lr048bur9habarjgkt9) 
 
