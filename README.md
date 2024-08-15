@@ -260,7 +260,11 @@ Our dataset is approved by the Institutional Review Board (IRB) at the Universit
 All participants provided written consent for the data collection: [Consent](https://utdallas.box.com/s/2qkvsgrn8gfs66o8ha8hnee011t03yl2)
 
 ----
+## NeurIPS Scores
 
+![PreRebuttalScores](https://github.com/user-attachments/assets/2131cf50-07cf-4d7d-b451-4beb6576fc22)
+
+----
 
 ## Citation
 
