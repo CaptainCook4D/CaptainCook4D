@@ -22,7 +22,9 @@
 
 ----
 
-**Sep 2024:** Release of updated final code for baselines on (a) **Error Recognition** - (Supervised, Zero-Shot) (b) **Multi-Step Localization**
+**Sep 26th 2024:** Our paper was accepted into NeurIPS 2024 with the scores: 8,8,7.
+
+**Oct 30th 2024:** Release of updated final code for baselines on (a) **Error Recognition** - (Supervised, Zero-Shot) (b) **Multi-Step Localization**
 
 **Aug 2024:** Released extracted features for the dataset using Video Recognition Models.
 
