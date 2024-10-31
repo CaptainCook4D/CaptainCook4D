@@ -20,7 +20,7 @@
 
 ## Update
 
-----
+**Oct 31st 2024:** Released final code for baselines and features used for training the models.
 
 **Sep 26th 2024:** Our paper was accepted into NeurIPS 2024 with the scores: 8,8,7.
 
@@ -60,8 +60,6 @@ We provide 5.3K step annotations and 10K fine-grained action annotations and ben
 <div align="center">
     <h3>Normal & Error Steps</h3>
 </div>
-
-----
 
 
 https://github.com/user-attachments/assets/d366002a-1832-48f7-8bc4-2a7774d4d4ef
@@ -140,7 +138,6 @@ https://github.com/user-attachments/assets/4e45a905-4ad5-4818-bc0e-0d76aa3ed740
     <h3>4D Snippets</h3>
 </div>
 
-----
 
 https://github.com/Error-Dataset/Error-Dataset/assets/130110495/d7a0f0d8-8ed2-4d37-ba0b-8b93a595a9c0
 
@@ -151,7 +148,6 @@ https://github.com/Error-Dataset/Error-Dataset/assets/130110495/d7a0f0d8-8ed2-4d
     <h3>Task Graphs</h3>
 </div>
 
-----
 
 You can find the task graphs for the following tasks in the dataset here: [Task Graphs](https://github.com/Error-Dataset/annotations)
 
@@ -165,7 +161,6 @@ https://github.com/user-attachments/assets/f32e37c6-adb9-4bd8-952b-7effa3de4b01
     <h3>Annotation Overview</h3>
 </div>
 
-----
 
 ![Annotation Overview](https://raw.githubusercontent.com/CaptainCook4D/captain-cook/main/static/images/RecipeTimeline.svg)
 
@@ -175,7 +170,6 @@ https://github.com/user-attachments/assets/f32e37c6-adb9-4bd8-952b-7effa3de4b01
     <h3>Data Collection and Annotation Illustration</h3>
 </div>
 
-----
 
 https://github.com/user-attachments/assets/87cae353-536b-48ad-942e-5eeb7c725089
 
@@ -186,7 +180,6 @@ https://github.com/user-attachments/assets/87cae353-536b-48ad-942e-5eeb7c725089
     <h3>Error Categories</h3>
 </div>
 
-----
 
 
 ![Error Categories](https://raw.githubusercontent.com/CaptainCook4D/captain-cook/main/static/images/ErrorCategories.svg)
@@ -198,7 +191,6 @@ https://github.com/user-attachments/assets/87cae353-536b-48ad-942e-5eeb7c725089
     <h3>Baselines</h3>
 </div>
 
-----
 
 
 <div align="center">
@@ -232,6 +224,16 @@ https://github.com/user-attachments/assets/87cae353-536b-48ad-942e-5eeb7c725089
 
 ----
 
+
+<div>
+    <h3>Download Data</h3>
+</div>
+
+
+- [Downloader](https://github.com/CaptainCook4D/downloader)
+
+----
+
 <div>
     <h3>Annotations</h3>
 </div>
@@ -239,6 +241,28 @@ https://github.com/user-attachments/assets/87cae353-536b-48ad-942e-5eeb7c725089
 
 - [Data Statistics](https://github.com/Error-Dataset/annotations)
 - [Train/Test Splits](https://github.com/Error-Dataset/annotations)
+
+----
+
+
+<div>
+    <h3>Features</h3>
+</div>
+
+
+- [Feature Extraction](https://github.com/CaptainCook4D/feature_extractors)
+
+----
+
+
+<div>
+    <h3>Baselines</h3>
+</div>
+
+
+- [Supervised Error Recognition](https://github.com/CaptainCook4D/error_recognition)
+- [Zero Shot Error Recognition](https://github.com/CaptainCook4D/zero_shot_error_recognition)
+- [Multi Step Localization](https://github.com/CaptainCook4D/multi_step_localization)
 
 ----
 
