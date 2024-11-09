@@ -295,14 +295,17 @@ All participants provided written consent for the data collection: [Consent](htt
 ## Citation
 
 ```python
-@misc{peddi2023captaincook4d,
-  title={{CaptainCook4D: A dataset for understanding errors in procedural activities}}, 
-  author={Rohith Peddi and Shivvrat Arya and Bharath Challa and Likhitha Pallapothula and Akshay Vyas and Jikai Wang and Qifan Zhang and Vasundhara Komaragiri and Eric Ragan and Nicholas Ruozzi and Yu Xiang and Vibhav Gogate},
-  year={2023},
-  eprint={2312.14556},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV}
+
+@misc{peddi2024captaincook4ddatasetunderstandingerrors,
+      title={{CaptainCook4D: A Dataset for Understanding Errors in Procedural Activities}}, 
+      author={Rohith Peddi and Shivvrat Arya and Bharath Challa and Likhitha Pallapothula and Akshay Vyas and Bhavya Gouripeddi and Jikai Wang and Qifan Zhang and Vasundhara Komaragiri and Eric Ragan and Nicholas Ruozzi and Yu Xiang and Vibhav Gogate},
+      year={2024},
+      eprint={2312.14556},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2312.14556}, 
 }
+
 ```
 
 
