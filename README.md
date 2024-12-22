@@ -20,6 +20,8 @@
 
 ## Update
 
+**Dec 22nd 2024:** Released all the checkpoints for error recognition models.
+
 **Oct 31st 2024:** Released final code for baselines and features used for training the models.
 
 **Sep 26th 2024:** Our paper was accepted into NeurIPS 2024 with the scores: 8,8,7.
