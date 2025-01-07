@@ -269,13 +269,14 @@ https://github.com/user-attachments/assets/87cae353-536b-48ad-942e-5eeb7c725089
 ----
 
 <div>
-    <h5>Works that used CaptainCook4D</h5>
+    <h2>Works that used CaptainCook4D</h2>
 </div>
 
 
 **Oct 2024:** [ProMQA: Question Answering Dataset for Multimodal Procedural Activity Understanding
 ](https://arxiv.org/abs/2410.22211)
-**June 2024:** [Differentiable Task Graph Learning](https://arxiv.org/abs/2406.01486)
+
+**Jun 2024:** [Differentiable Task Graph Learning](https://arxiv.org/abs/2406.01486)
 
 ----
 
