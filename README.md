@@ -301,14 +301,16 @@ All participants provided written consent for the data collection: [Consent](htt
 
 ```python
 
-@misc{peddi2024captaincook4ddatasetunderstandingerrors,
-      title={{CaptainCook4D: A Dataset for Understanding Errors in Procedural Activities}}, 
-      author={Rohith Peddi and Shivvrat Arya and Bharath Challa and Likhitha Pallapothula and Akshay Vyas and Bhavya Gouripeddi and Jikai Wang and Qifan Zhang and Vasundhara Komaragiri and Eric Ragan and Nicholas Ruozzi and Yu Xiang and Vibhav Gogate},
-      year={2024},
-      eprint={2312.14556},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2312.14556}, 
+@inproceedings{NEURIPS2024_f4a04396,
+ author = {Peddi, Rohith and Arya, Shivvrat and Challa, Bharath and Pallapothula, Likhitha and Vyas, Akshay and Gouripeddi, Bhavya and Zhang, Qifan and Wang, Jikai and Komaragiri, Vasundhara and Ragan, Eric and Ruozzi, Nicholas and Xiang, Yu and Gogate, Vibhav},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {A. Globerson and L. Mackey and D. Belgrave and A. Fan and U. Paquet and J. Tomczak and C. Zhang},
+ pages = {135626--135679},
+ publisher = {Curran Associates, Inc.},
+ title = {CaptainCook4D: A Dataset for Understanding Errors in Procedural Activities},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2024/file/f4a04396c2ed1342a5d8d05e94cb6101-Paper-Datasets_and_Benchmarks_Track.pdf},
+ volume = {37},
+ year = {2024}
 }
 
 ```
