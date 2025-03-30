@@ -272,6 +272,8 @@ https://github.com/user-attachments/assets/87cae353-536b-48ad-942e-5eeb7c725089
     <h2>Works that used CaptainCook4D</h2>
 </div>
 
+**Feb 2025:** [Task Graph Maximum Likelihood Estimation for Procedural Activity Understanding in Egocentric Videos
+](https://arxiv.org/abs/2502.17753) 
 
 **Oct 2024:** [ProMQA: Question Answering Dataset for Multimodal Procedural Activity Understanding
 ](https://arxiv.org/abs/2410.22211)
